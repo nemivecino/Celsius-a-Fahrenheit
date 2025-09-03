@@ -13,9 +13,9 @@ int main() {
 
     cout << "Destino: "; cin >> destino;
 
-    cout << "Kilómetros: "; cin >> kilometros;
+    cout << "KilÃ³metros: "; cin >> kilometros;
 
-    cout << "Valor por kilómetro: "; cin >> valor;
+    cout << "Valor por kilÃ³metro: "; cin >> valor;
 
     totalPagar = kilometros * valor;
 
